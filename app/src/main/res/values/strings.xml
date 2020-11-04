@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello CCY</string>
+    <string name="my_name">Chen Chee Yong</string>
+    <string name = "buttonMessage"> Click Me </string>
+</resources>
